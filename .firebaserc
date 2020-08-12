@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "gitlogfirebase": {
+      "hosting": {
+        "github-login-firebase": [
+          "gitlogfirebase"
+        ]
+      }
+    }
+  }
+}
